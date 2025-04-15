@@ -642,6 +642,28 @@
   {
     "data": {
       "isShortcut": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Gibt dir eine zufällige Kindheits Hintergrundgeschichte.",
+    "name": "Zufällige Hintergrundgeschichte Kindheit",
+    "usage": "!buy randomchildhood",
+    "userLevel": "Jeder",
+    "shortcut": false
+  },
+    {
+    "data": {
+      "isShortcut": false,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Gibt dir eine zufällige Erwachsener Hintergrundgeschichte.",
+    "name": "Zufällige Hintergrundgeschichte Erwachsen",
+    "usage": "!buy randomadulthood",
+    "userLevel": "jeder",
+    "shortcut": false
+  },
+    {
+    "data": {
+      "isShortcut": false,
       "mod": "ToolkitCore"
     },
     "description": "Hallo :)",
